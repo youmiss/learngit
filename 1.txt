@@ -9,4 +9,6 @@ echo 1
 
 echo 2
 
-哈哈
+--
+
+add test
